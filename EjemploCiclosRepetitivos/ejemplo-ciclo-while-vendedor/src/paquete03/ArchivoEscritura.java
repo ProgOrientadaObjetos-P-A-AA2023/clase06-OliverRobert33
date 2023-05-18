@@ -35,9 +35,11 @@ public class ArchivoEscritura {
             
             String rutaArchivo = String.format("data/%s.txt", 
                     obtenerNombreArchivo());
+            
             salidaArchivo = new Formatter(rutaArchivo);
             
             salidaArchivo.format("%s", obtenereDataFinal());
+            
             salidaArchivo.close();
 
         } catch (Exception e) {

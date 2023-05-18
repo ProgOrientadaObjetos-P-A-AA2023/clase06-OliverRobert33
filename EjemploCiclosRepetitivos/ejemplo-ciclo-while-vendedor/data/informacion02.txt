@@ -1,0 +1,21 @@
+Datos de Vendedor
+Nombre: OLIVER
+Edad: 18
+Salario mínimo: 1000,00
+Número de autos: 50
+Pago mensual: 8500,00
+
+Datos de Vendedor
+Nombre: ROBERTO
+Edad: 19
+Salario mínimo: 1000,00
+Número de autos: 50
+Pago mensual: 8500,00
+
+Datos de Vendedor
+Nombre: LUIS
+Edad: 20
+Salario mínimo: 1000,00
+Número de autos: 50
+Pago mensual: 8500,00
+
